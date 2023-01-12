@@ -19,8 +19,8 @@ console.log(`Jami: ${answer1} toq soni mavjud`);
 
 for (let i = 0; i < numArr.length; i++) {
     if (numArr[i] % 2 == 0) {
-        console.log(numArr[i] + ' juft');
+        console.log(numArr[i] + ' juft son');
     } else {
-        console.log(numArr[i] + ' toq');
+        console.log(numArr[i] + ' toq son');
     }
 }
